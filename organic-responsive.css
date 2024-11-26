@@ -1,0 +1,232 @@
+@media(max-width: 450px){
+    .position2{
+        position: absolute;
+        bottom: 490px;
+        left: 40px;
+        height: 200px;
+        width: 300px;
+    }
+    .section-position{
+        display: none;
+    }
+    .section-position1{
+        display: none;
+    }
+    .hero-section{
+        padding-top: 50px;
+    }
+    .haeding{
+        font-size: 16px;
+    }
+    .list-item{
+        display: none;
+    }
+    .navbar-toggler{
+    margin-left: 100px;
+    }
+    .position-relative{
+        margin-top: 20px;
+    }
+    .space5{
+        text-align: center;
+    }
+    .section-2{
+        padding: 30px;
+    }
+    .manage{
+        width: 300px;
+        height: 400px;
+        padding-bottom: 70px;
+    }
+    .section4-item1{
+        padding-top: 170px;
+    }
+    .heading{
+        font-size: 24px;
+    }
+    .listing{
+        width: 100%;
+        font-size: 14px;
+    }
+    /*   section3  */
+    .section-3{
+        padding-bottom: 30px;
+    }
+
+
+
+    /*section-4  */
+    .section-4{
+        padding: 20px 0px;
+    }
+    .section4-item1{
+        padding-top: 60px;
+    }
+
+
+    /*  section-5  */
+    .section5-item1{
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    .section-6{
+        margin: 0px 10px;
+    }
+
+    .section6-img{
+        display: none;
+    }
+    .section6-img2{
+       display: none;
+    }
+    .section-8{
+        width: 100%;
+        height: auto;
+    }
+    .section8-item2{
+        margin-top: 20px;
+    }
+    .section8-item3{
+        margin-top: 20px;
+    }
+    .section9-item2{
+        padding: 20px;
+        margin-top: 20px;
+    }
+    .section-9{
+        margin: 30px 0px;
+        width: auto;
+        height: auto;
+    }
+    footer{
+        margin: 0px 14px;
+        padding: 25px 20px;
+    }
+    #contents{
+        font-size: 24px;
+    }
+    .object-fit{
+        height: auto;
+    }
+    footer p{
+        margin-top: 0px;
+    }
+    footer ul{
+        margin-top: 0;
+        margin-left: -20px;
+    }
+}
+
+@media(min-width: 451px) and (max-width: 768px){
+    .position2{
+        position: absolute;
+        bottom: 450px;
+        left: 200px;
+        width: 500px;
+        height: 350px;
+    }
+    .section-position{
+        display: none;
+    }
+    .section-position1{
+        display: none;
+    }
+    .section-2{
+        padding: 60px;
+    }
+    .manage{
+        width: 500px;
+        height: 500px;
+        padding-bottom: 70px;
+    }
+    .navbar-toggler{
+        margin-left: 100px;
+        }
+        .position-relative{
+            margin-top: 20px;
+        }
+        footer p{
+            margin-top: 0px;
+        }
+        footer ul{
+            margin-top: 0;
+            margin-left: -20px;
+        }
+
+
+
+         /*section-4  */
+    .section-4{
+        padding: 40px 0px;
+    }
+
+     /*  section-5  */
+     .section5-item1{
+        padding-top: 70px;
+        padding-bottom: 20px;
+    }
+    .btn2{
+        margin-bottom: 0;
+        margin-bottom: 20px;
+    }
+
+    .section6-img{
+        display: none;
+    }
+    .section6-img2{
+       display: none;
+    }
+    .section-8{
+        width: 100%;
+        height: auto;
+    }
+    .section8-item2{
+        margin-top: 20px;
+    }
+    .section8-item3{
+        margin-top: 20px;
+    }
+    .section9-item2{
+        padding: 50px;
+        margin-top: 20px;
+    }
+    .section-9{
+        margin: 30px 0px;
+        width: auto;
+        height: auto;
+    }
+    footer{
+        margin: 0px 25px;
+    }
+}
+
+@media(min-width: 769px) and (max-width:1024px){
+    .position2{
+      display: none;
+    }
+    .space1{
+        padding-top: 50px;
+    }
+    .section-position1{
+        width: auto;
+        right: 30px;
+    }
+    .content1{
+        margin-top: 0;
+    }
+    .object-fit{
+        height: auto;
+    }
+    .section6-img2{
+        display: none;
+    }
+    .section6-img{
+        right: 40px;
+        top: 120px;
+        height: 70%;
+    }
+    #contents{
+        font-size: 24px;
+    }
+}
